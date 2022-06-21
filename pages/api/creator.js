@@ -8,9 +8,9 @@ export default function handler(req, res) {
     company: '@ServiceNow',
     location: "San Diego",
     email: 'vladbodnarenkoofficial@gmail.com',
-    hireable: true,
-    site_admin: true,
-    type: "Admin",
-    url: "https://bankrollerrec.com"
+    // hireable: true,
+    // site_admin: true,
+    type: 'Admin',
+    url: 'https://bankrollerrec.com'
   })
 }
