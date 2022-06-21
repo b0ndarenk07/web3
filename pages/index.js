@@ -13,23 +13,23 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Vlads Website  <a href="https://nextjs.org">Next.js!</a>
+          Welcome to My Portfolio of Projects <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
-         This is the body, paragraph and soul of a website{' '}
+          I am a webdeveloper from San Diego, CA. These are some of the projects that I've worked on{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>I also have a personal website</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>This is an application Ive worked on, it works in iOs</p>
           </a>
 
           <a
@@ -37,7 +37,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>This is an application Ive worked on, it works as a stand alone Java system that allows people to login.</p>
           </a>
 
           <a
