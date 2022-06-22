@@ -1,6 +1,6 @@
 {
-  "name": "vladsportfoliofornodejs3000",
-  "version": "0.1.1",
+  "name": "portfolio",
+  "version": "0.1.2",
   "private": false,
   "scripts": {
     "dev": "next ",
@@ -20,7 +20,7 @@
   "publishConfig": {
     "registry":"https://registry.npmjs.org/"
   },
-  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "description": "This is a Next.js project bootstrapped with vercel",
   "main": "next.config.js",
   "repository": {
      "type": "git",
