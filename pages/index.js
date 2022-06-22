@@ -25,12 +25,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://bankrollerrec.com" className={styles.card}>
             <h2>Bank Roller Records </h2>
-            <p>This is my personal website which I use to showcase my resume and some tools for stock & crypto analysis</p>
+            <p>This is my personal website which I use to showcase my resume and some tools for stock and crypto analysis</p>
           </a>
 
           <a href="https://github.com/b0ndarenk07/web3" className={styles.card}>
             <h2>Learn &rarr;</h2>
-            <p>This is this website developed in Node JS & Next JS</p>
+            <p>This is this website developed in Node JS and Next JS</p>
           </a>
 
           <a
